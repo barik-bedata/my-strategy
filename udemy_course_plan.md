@@ -8,8 +8,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 01 | Blind 75: Algorithms Coding Interview Questions in Java | 55 ✅ |
-| 02 | Blind 75: Algorithms Coding Interview Questions in Python | 57 ✅ |
+| 01 | Blind 75: Algorithms Coding Interview Questions in Java (Upgrade) | 55 ✅ |
+| 02 | Blind 75: Algorithms Coding Interview Questions in Python (New) | 57 ✅ |
 
 ---
 
@@ -17,8 +17,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 03 | LeetCode Top 150: Algorithms Coding Interview in Java | 54 ✅ |
-| 04 | LeetCode Top 150: Algorithms Coding Interview in Python | 56 ✅ |
+| 03 | LeetCode Top 150: Algorithms Coding Interview in Java (Upgrade) | 54 ✅ |
+| 04 | LeetCode Top 150: Algorithms Coding Interview in Python (New) | 56 ✅ |
 
 > ⚠️ Note: "Questions" removed from Series 2 titles to stay within 60 char limit.
 
@@ -28,8 +28,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 05 | Animated Cracking Coding Interview Patterns in Java: Part 1 | 49 ✅ |
-| 06 | Animated Cracking Coding Interview Patterns in Python: Part 1 | 51 ✅ |
+| 05 | Animated Cracking Coding Interview Patterns in Java: Part 1 (New) | 49 ✅ |
+| 06 | Animated Cracking Coding Interview Patterns in Python: Part 1 (New) | 51 ✅ |
 
 ---
 
@@ -37,8 +37,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 07 | Animated Cracking Coding Interview Patterns in Java: Part 2 | 49 ✅ |
-| 08 | Animated Cracking Coding Interview Patterns in Python: Part 2 | 51 ✅ |
+| 07 | Animated Cracking Coding Interview Patterns in Java: Part 2 (New) | 49 ✅ |
+| 08 | Animated Cracking Coding Interview Patterns in Python: Part 2 (New) | 51 ✅ |
 
 ---
 
@@ -46,9 +46,9 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 13 | Animated Data Structures & Algorithms in Java | 23 ✅ |
-| 14 | Animated Data Structures & Algorithms in Python | 25 ✅ |
-| 15 | Animated Data Structures & Algorithms in C++ | 25 ✅ |
+| 13 | Animated Data Structures & Algorithms in Java (New) | 23 ✅ |
+| 14 | Animated Data Structures & Algorithms in Python (New) | 25 ✅ |
+| 15 | Animated Data Structures & Algorithms in C++ (New) | 25 ✅ |
 
 ---
 
