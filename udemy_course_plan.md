@@ -1,10 +1,10 @@
 # Udemy Course Plan — Complete Roadmap
 
-**Total Courses:** 15 | **Languages:** C++ | Java | Python
+**Total Courses:** 11 | **Languages:** C++ | Java | Python
 
 ---
 
-## Series 1 — Blind 75: Algorithms Coding Interview Questions
+## Series 1 — Blind 75: Algorithms Coding Interview Questions (100% Fixed Curriculumn)
 
 | # | Course Title | Chars |
 |---|---|---|
@@ -13,7 +13,7 @@
 
 ---
 
-## Series 2 — LeetCode Top 150: Algorithms Coding Interview Questions
+## Series 2 — LeetCode Top 150: Algorithms Coding Interview Questions (100% Fixed Curriculumn)
 
 | # | Course Title | Chars |
 |---|---|---|
@@ -24,7 +24,7 @@
 
 ---
 
-## Series 3 — Cracking Coding Interview Patterns: Part 1
+## Series 3 — Cracking Coding Interview Patterns: Part 1 (80% Fixed, 20% Flexible Curriculumn)
 
 | # | Course Title | Chars |
 |---|---|---|
@@ -33,7 +33,7 @@
 
 ---
 
-## Series 4 — Cracking Coding Interview Patterns: Part 2
+## Series 4 — Cracking Coding Interview Patterns: Part 2 (80% Fixed, 20% Flexible Curriculumn)
 
 | # | Course Title | Chars |
 |---|---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## Series 7 — Data Structures
+## Series 5 — Data Structures & Algorithms (80% Fixed, 20% Flexible Curriculumn)
 
 | # | Course Title | Chars |
 |---|---|---|
@@ -51,6 +51,8 @@
 | 15 | Animated Data Structures & Algorithms in C++ | 25 ✅ |
 
 ---
+
+
 
 ## Content Strategy — Same vs Different
 
