@@ -28,8 +28,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 05 | Cracking Coding Interview Patterns Part 1 in Java | 49 ✅ |
-| 06 | Cracking Coding Interview Patterns Part 1 in Python | 51 ✅ |
+| 05 | Animated Cracking Coding Interview Patterns in Java: Part 1 | 49 ✅ |
+| 06 | Animated Cracking Coding Interview Patterns in Python: Part 1 | 51 ✅ |
 
 ---
 
@@ -37,26 +37,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 07 | Cracking Coding Interview Patterns Part 2 in Java | 49 ✅ |
-| 08 | Cracking Coding Interview Patterns Part 2 in Python | 51 ✅ |
-
----
-
-## Series 5 — Cracking Coding Interview Patterns: Part 3
-
-| # | Course Title | Chars |
-|---|---|---|
-| 09 | Cracking Coding Interview Patterns Part 3 in Java | 49 ✅ |
-| 10 | Cracking Coding Interview Patterns Part 3 in Python | 51 ✅ |
-
----
-
-## Series 6 — Cracking Coding Interview Patterns: Part 4
-
-| # | Course Title | Chars |
-|---|---|---|
-| 11 | Cracking Coding Interview Patterns Part 4 in Java | 49 ✅ |
-| 12 | Cracking Coding Interview Patterns Part 4 in Python | 51 ✅ |
+| 07 | Animated Cracking Coding Interview Patterns in Java: Part 2 | 49 ✅ |
+| 08 | Animated Cracking Coding Interview Patterns in Python: Part 2 | 51 ✅ |
 
 ---
 
