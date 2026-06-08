@@ -1,6 +1,6 @@
 # Udemy Course Plan — Complete Roadmap
 
-**Total Courses:** 21 | **Languages:** C++ | Java | Python
+**Total Courses:** 15 | **Languages:** C++ | Java | Python
 
 ---
 
@@ -8,9 +8,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 01 | Blind 75: Algorithms Coding Interview Questions in C++ | 54 ✅ |
-| 02 | Blind 75: Algorithms Coding Interview Questions in Java | 55 ✅ |
-| 03 | Blind 75: Algorithms Coding Interview Questions in Python | 57 ✅ |
+| 01 | Blind 75: Algorithms Coding Interview Questions in Java | 55 ✅ |
+| 02 | Blind 75: Algorithms Coding Interview Questions in Python | 57 ✅ |
 
 ---
 
@@ -18,9 +17,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 04 | LeetCode Top 150: Algorithms Coding Interview in C++ | 53 ✅ |
-| 05 | LeetCode Top 150: Algorithms Coding Interview in Java | 54 ✅ |
-| 06 | LeetCode Top 150: Algorithms Coding Interview in Python | 56 ✅ |
+| 03 | LeetCode Top 150: Algorithms Coding Interview in Java | 54 ✅ |
+| 04 | LeetCode Top 150: Algorithms Coding Interview in Python | 56 ✅ |
 
 > ⚠️ Note: "Questions" removed from Series 2 titles to stay within 60 char limit.
 
@@ -30,9 +28,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 07 | Cracking Coding Interview Patterns Part 1 in C++ | 48 ✅ |
-| 08 | Cracking Coding Interview Patterns Part 1 in Java | 49 ✅ |
-| 09 | Cracking Coding Interview Patterns Part 1 in Python | 51 ✅ |
+| 05 | Cracking Coding Interview Patterns Part 1 in Java | 49 ✅ |
+| 06 | Cracking Coding Interview Patterns Part 1 in Python | 51 ✅ |
 
 ---
 
@@ -40,9 +37,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 10 | Cracking Coding Interview Patterns Part 2 in C++ | 48 ✅ |
-| 11 | Cracking Coding Interview Patterns Part 2 in Java | 49 ✅ |
-| 12 | Cracking Coding Interview Patterns Part 2 in Python | 51 ✅ |
+| 07 | Cracking Coding Interview Patterns Part 2 in Java | 49 ✅ |
+| 08 | Cracking Coding Interview Patterns Part 2 in Python | 51 ✅ |
 
 ---
 
@@ -50,9 +46,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 13 | Cracking Coding Interview Patterns Part 3 in C++ | 48 ✅ |
-| 14 | Cracking Coding Interview Patterns Part 3 in Java | 49 ✅ |
-| 15 | Cracking Coding Interview Patterns Part 3 in Python | 51 ✅ |
+| 09 | Cracking Coding Interview Patterns Part 3 in Java | 49 ✅ |
+| 10 | Cracking Coding Interview Patterns Part 3 in Python | 51 ✅ |
 
 ---
 
@@ -60,9 +55,8 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 16 | Cracking Coding Interview Patterns Part 4 in C++ | 48 ✅ |
-| 17 | Cracking Coding Interview Patterns Part 4 in Java | 49 ✅ |
-| 18 | Cracking Coding Interview Patterns Part 4 in Python | 51 ✅ |
+| 11 | Cracking Coding Interview Patterns Part 4 in Java | 49 ✅ |
+| 12 | Cracking Coding Interview Patterns Part 4 in Python | 51 ✅ |
 
 ---
 
@@ -70,9 +64,9 @@
 
 | # | Course Title | Chars |
 |---|---|---|
-| 19 | Data Structures in C++ | 22 ✅ |
-| 20 | Data Structures in Java | 23 ✅ |
-| 21 | Data Structures in Python | 25 ✅ |
+| 13 | Animated Data Structures & Algorithms in Java | 23 ✅ |
+| 14 | Animated Data Structures & Algorithms in Python | 25 ✅ |
+| 15 | Animated Data Structures & Algorithms in C++ | 25 ✅ |
 
 ---
 
