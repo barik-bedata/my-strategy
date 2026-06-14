@@ -93,12 +93,42 @@
 ---
 
 ### Step 6: Code Submission & Outro (The Dopamine Hit)
-* **ট্রানজিশন:** কোড এডিটর থেকে সরাসরি ব্রাউজারে LeetCode/Hackerrank প্ল্যাটফর্মের স্ক্রিন চলে আসবে।
-* **ভিজুয়াল:** টপ-লেফট ট্র্যাকার ফাইনাল ফেজ `🟢 CODE SUBMISSION` এ আপডেট হবে। আপনি কোড সাবমিট করবেন এবং স্ক্রিনে সবুজ রঙে বড় করে **`Accepted`** লেখাটি আসবে। যদি কোডটি ১০০% ইউজারকে বিট করে, তবে সেই গ্রাফটিও স্টুডেন্টকে দেখিয়ে কোর্সের প্রতি ট্রাস্ট তৈরি করা হবে।
-* **আউট্রো ফ্লো (No Extra Preview / Just Fade Out):** * কোড অ্যাক্সেপ্ট হওয়ার পর আপনি এন্ডিং ডায়ালগ দেবেন: *"সো, সাকসেসফুলি কোডটা রান হয়ে গেল। দেখা হচ্ছে পরবর্তী লেকচারে, যেখানে আমরা শিখব কীভাবে একটা লিংকড লিস্ট রিভার্স করতে হয়।"*
-  * আপনার এই শেষ ডায়ালগটি মুখে বলার সাথে সাথে স্ক্রিনের মাঝখানে কোনো সাউন্ড ছাড়া পরবর্তী ভিডিওর টাইটেল **Masking/Fade-In** হয়ে আসবে: `Next Topic: Reverse a Linked List`।
-  * টাইটেলটি স্ক্রিনে ৩ সেকেন্ড থাকবে এবং কথা শেষ হওয়া মাত্রই পুরো স্ক্রিন **`Smooth Fade to Black (0.5s)`** হয়ে ভিডিও শেষ হবে। উডোমির "Binge-watching" এক্সপেরিয়েন্স স্মুথ রাখার জন্য কোনো ফালতু Promo আউট্রো বা নেক্সট ভিডিওর ভিডিও-প্রিভিউ দেওয়া যাবে না।
-  * Outro: Our next problem is [Problem Title]. See you in the next video!
+
+**Transition:** The view switches directly from the code editor to the LeetCode/Hackerrank platform in the browser.
+**Visual:** The top-left tracker updates to the final phase: `🟢 CODE SUBMISSION`. Upon submission, a large **`Accepted`** text pops up in green. If the code beats 100% of users, that specific graph is highlighted to build trust.
+
+The outro flow is divided into two conditions based on the video's placement in the course:
+
+#### 🔹 Condition A: Regular Video Outro
+* **Audio/Dialog:** *"So, that wraps up our solution. Our next problem is [Problem Title]. I'll see you there!"*
+* **Visual Animation (No Extra Preview / Just Fade Out):** 
+  * As the final dialogue is spoken, the title of the next video appears silently in the center of the screen.
+  * **Masking Style:** `Mask Bottom to Top` reveal.
+  * **Color:** Text is **White (#E0E0E0)**, and the mask highlight/underline is **Blue (#1A73E8)** for a sleek coding aesthetic.
+  * **Timing:** The text `Next Problem: [Problem Title]` stays on screen for exactly 3 seconds. As soon as the dialogue ends, the screen triggers a **`Smooth Fade to Black (0.5s)`** ending the video. 
+  * *Note: To maintain the Udemy "Binge-watching" experience, no promotional outro or next-video previews are used.*
+
+---
+
+#### 🔹 Condition B: Last Video of a Section (Integrated Milestone Outro Flow)
+* **Audio/Dialog:** *"And with that, we have successfully completed the [Section Name] section!"*
+* **Visual Animation (The Achievement Moment):**
+  * The text **`🏆 SECTION COMPLETE: [SECTION NAME]`** appears in the center of the screen.
+  * **Masking Style:** `Mask Right to Left` reveal.
+  * **Color:** Text is **Milestone Green (#4CAF50 or #10B981)** accompanied by a *Deep Ambient Achievement Swell* audio effect (lasting 3 seconds).
+
+* **The Blind Challenges Slate:**
+  * A slate dynamically pops up (Scale Up animation) featuring:
+    * **`💪 CHALLENGE YOURSELF (Check Resources to Solve)`** *(Color: Gold/Yellow #EAB308)*
+    * *Challenge 1: LeetCode 234 - Palindrome Linked List (Medium)*
+    * *Challenge 2: LeetCode 25 - Reverse Nodes in k-Group (Hard)*
+  * **Audio/Dialog:** *"এই ২টা ব্লাইন্ড চ্যালেঞ্জ আপনাদের হোমওয়ার্ক, যার সলিউশন আমাদের গিটহাব রিপোজিটরিতে দেওয়া আছে। নিজে নিজে চেষ্টা করুন!"*
+
+* **Final Ending:**
+  * **Audio/Dialog:** *"দেখা হচ্ছে পরবর্তী মডিউলে, যেখানে আমরা শুরু করব [Next Module Name]। I'll see you there!"*
+  * **Visual Animation:** The screen silently cross-fades to reveal: **`Next Module: [Next Module Name]`**.
+  * **Masking Style:** `Mask Bottom to Top` reveal (White text, Blue highlight). 
+  * **Timing:** The module title stays for 2 seconds, immediately followed by a **`Smooth Fade to Black (0.5s)`** to conclude the video.
 
 ---
 
