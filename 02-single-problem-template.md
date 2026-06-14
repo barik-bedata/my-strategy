@@ -54,9 +54,9 @@
 
 ### Step 1: Title Masking (Intro)
 * **समयकाल:** ০ - ৫ সেকেন্ড।
-* **ভিজুয়াল:** ডার্ক স্ক্রিনের মাঝখানে একটি invisible লাইন (Invisible Mask Line) ভেদ করে নিচ থেকে উপরে বা উপর থেকে নিচে প্রবলেমের নাম রিویل হবে (যেমন: *"Find Middle Element of Linked List"* )। 
+* **ভিজুয়াল:** ডার্ক স্ক্রিনের মাঝখানে একটি invisible লাইন (Invisible Mask Line) ভেদ করে নিচ থেকে উপরে বা উপর থেকে নিচে প্রবলেমের নাম Reveal হবে (যেমন: *"Find Middle Element of Linked List"* )।
 * **অডিও:** টেক্সট Reveal হওয়ার সময় একটি মিনিমাল **`Soft Deep Swoosh`** বা **`Tech Whoosh`** সাউন্ড হবে। টেক্সট সেটেল হওয়ার সাথে সাথে শব্দ মিলিয়ে যাবে এবং আপনার ভয়েস-ওভার শুরু হবে। ৫ সেকেন্ড পর টাইটেলটি সাইলেন্টলি ফেড-আউট হবে।
-* **Intro** In this video we are going to solve the "problem title" problem. 
+* **Intro** In this video we are going to solve the "problem title" problem.
 
 ---
 
@@ -68,7 +68,7 @@
 
 ### Step 3: Intuition & The "Clean Slate" Method (Brute Force to Efficient)
 * **ট্রানজিশন:** Step 2 থেকে এখানে আসার সময় আবার একই **`Left-to-Right Whoosh`** ট্রানজিশন হবে।
-* **রিসার্চ ও সায়েন্টিফিক ব্যাকগ্রাউন্ড (Sweller's Cognitive Load & Mayer's Redundancy Principle):** স্ক্রিনে একই সাথে একাধিক অ্যানিমেশন রাখা বা আগের সリューションের কোনো "অবশিষ্টাংশ বা কার্ড" স্থায়ীভাবে রেখে দিলে **Split-Attention Effect** তৈরি হয়। তাই এই কোর্সে **"Total Clean Slate"** মেথড ব্যবহার করা হবে।
+* **রিসার্চ ও সায়েন্টিফিক ব্যাকগ্রাউন্ড (Sweller's Cognitive Load & Mayer's Redundancy Principle):** স্ক্রিনে একই সাথে একাধিক অ্যানিমেশন রাখা বা আগের কোনো "অবশিষ্টাংশ বা কার্ড" স্থায়ীভাবে রেখে দিলে **Split-Attention Effect** তৈরি হয়। তাই এই কোর্সে **"Total Clean Slate"** মেথড ব্যবহার করা হবে।
   
   1. **Brute Force পার্ট:** টপ-লেফটে `🔴 BRUTE FORCE` ট্র্যাকার অন হবে। স্ক্রিনের মাঝখানে ব্রুট ফোর্সের নোড/অ্যারে অ্যানিমেশন চমৎকারভাবে দেখানো হবে। লজিক ব্যাখ্যা করার সময় স্ক্রিনের নিচে কোনো কমপ্লেক্সিটি টেক্সট থাকবে না (**No Spoilers**)।
   2. **Brute Force কমপ্লেক্সিটি ডিসপ্লে (Delayed Display):** শিক্ষক যখনই মুখে ব্রুট ফোর্সের কমপ্লেক্সিটি নিয়ে কথা বলবেন, ঠিক সেই মুহূর্তে **Bottom-Right** কর্নারে `Time: O(N^2) | Space: O(1)` টেক্সটটি একটি **`Soft Blip/Ding (-15 dB)`** সাউন্ডের সাথে পপ-আপ হবে। কোনো ভারী বা কালারফুল "Lower Third" ব্যাকগ্রাউন্ড বক্স ব্যবহার করা যাবে না, শুধু নিট অ্যান্ড ক্লিন টেক্সট হবে। টেক্সটটি আসার পর সিনের শেষ পর্যন্ত সেখানে ফিক্সড থাকবে (যাতে পরবর্তীতে স্টুডেন্ট টেনে টেনে রিভিশন দেওয়ার সময় এক পলকে কমপ্লেক্সিটি দেখতে পায়)।
@@ -113,23 +113,22 @@ The outro flow is divided into two conditions based on the video's placement in 
 #### 🔹 Condition B: Last Video of a Section (Integrated Milestone Outro Flow)
 * **Audio/Dialog:** *"And with that, we have successfully completed the [Section Name] section!"*
 * **Visual Animation (The Achievement Moment):**
-  * The text **`🏆 SECTION COMPLETE: [SECTION NAME]`** appears in the center of the screen.
-  * **Masking Style:** `Mask Right to Left` reveal.
-  * **Color:** Text is **Milestone Green (#4CAF50 or #10B981)** accompanied by a *Deep Ambient Achievement Swell* audio effect (lasting 3 seconds).
+  * স্ক্রিনের ঠিক মাঝখানে **`🏆 SECTION COMPLETE: [SECTION NAME]`** লেখাটি ভেসে উঠবে।
+  * **Masking Style:** মাস্কিং হবে `Mask Right to Left` স্টাইলে।
+  * **Color:** টেক্সটের রঙ হবে **Milestone Green (#4CAF50 বা #10B981)** এবং ব্যাকগ্রাউন্ডে একটি *Deep Ambient Achievement Swell* সাউন্ড ইফেক্ট বাজবে (৩ সেকেন্ড ধরে)।
 
 * **The Blind Challenges Slate:**
-  * A slate dynamically pops up (Scale Up animation) featuring:
-    * **`💪 CHALLENGE YOURSELF (Check Resources to Solve)`** *(Color: Gold/Yellow #EAB308)*
+  * এরপর সিনের ভেতর ডায়নামিকালি (Scale Up অ্যানিমেশন দিয়ে) "The Blind Challenges" স্লেটটি পপ-আপ করবে:
+    * **`💪 CHALLENGE YOURSELF (Check Resources to Solve)`** *(কালার: Gold/Yellow #EAB308)*
     * *Challenge 1: LeetCode 234 - Palindrome Linked List (Medium)*
     * *Challenge 2: LeetCode 25 - Reverse Nodes in k-Group (Hard)*
-  * **Audio/Dialog:** *"এই ২টা ব্লাইন্ড চ্যালেঞ্জ আপনাদের হোমওয়ার্ক, যার সলিউশন আমাদের গিটহাব রিপোজিটরিতে দেওয়া আছে। নিজে নিজে চেষ্টা করুন!"*
+  * **Audio/Dialog:** *""These two blind challenges are your homework. Try to solve them on your own, and if you get stuck, feel free to drop a question in the Q&A section. I'd be happy to help!"."*
 
 * **Final Ending:**
-  * **Audio/Dialog:** *"দেখা হচ্ছে পরবর্তী মডিউলে, যেখানে আমরা শুরু করব [Next Module Name]। I'll see you there!"*
-  * **Visual Animation:** The screen silently cross-fades to reveal: **`Next Module: [Next Module Name]`**.
-  * **Masking Style:** `Mask Bottom to Top` reveal (White text, Blue highlight). 
-  * **Timing:** The module title stays for 2 seconds, immediately followed by a **`Smooth Fade to Black (0.5s)`** to conclude the video.
-
+  * **Audio/Dialog:** *"I'll see you in the next module, where we are going to start [Next Module Name]."*
+  * **Visual Animation:** স্ক্রিনটি সাইলেন্টলি ক্রস-ফেড হয়ে নতুন টেক্সট রিভিল করবে: **`Next Module: [Next Module Name]`**।
+  * **Masking Style:** মাস্কিং হবে `Mask Bottom to Top` স্টাইলে (টেক্সট White, হাইলাইটের রঙ Blue)। 
+  * **Timing:** মডিউলের টাইটেলটি স্ক্রিনে ২ সেকেন্ড থাকবে এবং এরপরই সাথে সাথে **`Smooth Fade to Black (0.5s)`** হয়ে ভিডিওটি শেষ হয়ে যাবে।
 ---
 
 ## 🎛️ 4. Audio Mixing Standards (Golden Rule)
