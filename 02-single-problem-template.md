@@ -53,7 +53,7 @@
 ---
 
 ### Step 1: Title Masking (Intro)
-* **समयकाल:** ০ - ৫ সেকেন্ড।
+* **Duration:** ০ - ৫ সেকেন্ড।
 * **ভিজুয়াল:** ডার্ক স্ক্রিনের মাঝখানে একটি invisible লাইন (Invisible Mask Line) ভেদ করে নিচ থেকে উপরে বা উপর থেকে নিচে প্রবলেমের নাম Reveal হবে (যেমন: *"Find Middle Element of Linked List"* )।
 * **অডিও:** টেক্সট Reveal হওয়ার সময় একটি মিনিমাল **`Soft Deep Swoosh`** বা **`Tech Whoosh`** সাউন্ড হবে। টেক্সট সেটেল হওয়ার সাথে সাথে শব্দ মিলিয়ে যাবে এবং আপনার ভয়েস-ওভার শুরু হবে। ৫ সেকেন্ড পর টাইটেলটি সাইলেন্টলি ফেড-আউট হবে।
 * **Intro** In this video we are going to solve the "problem title" problem.
